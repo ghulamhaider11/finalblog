@@ -1,0 +1,6 @@
+pysqlite3-binary
+crewai
+crewai_tools
+langchain_community
+langchain-groq
+streamlit 
